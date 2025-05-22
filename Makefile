@@ -117,6 +117,7 @@ TARGETS += xen-guest-agent
 TARGETS += youki
 TARGETS += zerotier
 TARGETS += zfs
+TARGETS += hyperv-lis-drivers
 NONFREE_TARGETS = nonfree-kmod-nvidia-lts
 NONFREE_TARGETS += nonfree-kmod-nvidia-production
 

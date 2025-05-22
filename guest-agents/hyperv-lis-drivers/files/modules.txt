@@ -1,0 +1,12 @@
+modules.order
+modules.builtin
+modules.builtin.modinfo
+kernel/drivers/hv/hv_vmbus.ko
+kernel/drivers/hv/hv_netvsc.ko
+kernel/drivers/hv/hv_storvsc.ko
+kernel/drivers/hv/hv_balloon.ko
+kernel/drivers/hv/hv_utils.ko
+kernel/drivers/hv/hv_kvp.ko
+kernel/drivers/hv/hv_sock.ko
+kernel/drivers/net/hyperv/hv_netvsc.ko
+kernel/drivers/scsi/storvsc_drv.ko
